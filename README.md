@@ -1,0 +1,25 @@
+# Psalm
+
+Pseudo assembly language machine, this project serves as testing ground for the viability and usefulness of different stack-based language architectures. In the current state it features following commands:
+
+- "ADD",
+- "SUBTRACT",
+- "MULTIPLY",
+- "DIVIDE",
+- "AND",
+- "OR",
+- "XOR", 
+- "GTR", 
+- "LSS",
+- "NOT",
+- "POP", 
+- "CPOP",
+- "CPUSH",
+- "PUSH",
+- "IFGOTO", 
+- "STORE",
+- "LOAD", 
+- "PUSHX", 
+- "IFGOTOX", 
+- "STOREX",
+- "LOADX", 
